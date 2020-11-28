@@ -53,7 +53,7 @@ const weatherOption = {
         iconName: "weather-cloudy",
         gradient: ["#bdc3c7","#2c3e50"],
         title: "흐림",
-        subtitle: "꿀꿀한데 소주한잔 하죠? 🍶",
+        subtitle: "꿀꿀한데 소주한잔 하죠?  🍶",
     },
 }
 
